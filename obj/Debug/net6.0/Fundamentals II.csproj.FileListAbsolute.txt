@@ -1,0 +1,14 @@
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\bin\Debug\net6.0\Fundamentals II.exe
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\bin\Debug\net6.0\Fundamentals II.deps.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\bin\Debug\net6.0\Fundamentals II.runtimeconfig.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\bin\Debug\net6.0\Fundamentals II.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\bin\Debug\net6.0\Fundamentals II.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\obj\Debug\net6.0\Fundamentals II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\obj\Debug\net6.0\Fundamentals II.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\obj\Debug\net6.0\Fundamentals II.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\obj\Debug\net6.0\Fundamentals II.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\obj\Debug\net6.0\Fundamentals II.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\obj\Debug\net6.0\refint\Fundamentals II.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\obj\Debug\net6.0\Fundamentals II.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\obj\Debug\net6.0\Fundamentals II.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\Fundamentals II\obj\Debug\net6.0\ref\Fundamentals II.dll
